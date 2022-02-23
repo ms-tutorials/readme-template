@@ -36,7 +36,7 @@
 [Go Back to the top](#title)
 
 ## Licence
-[MIT LICENCE](main/LICENCE)
+[MIT LICENCE](LICENSE)
 
 [Go Back to the top](#title)
 
