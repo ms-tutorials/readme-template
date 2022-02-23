@@ -6,7 +6,7 @@
 
 + [Description](#Description)
 + [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
++ [Technology Used](#technologies-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
